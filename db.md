@@ -2,6 +2,10 @@
 Modellare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
 ##
 
+DB_NAME : concessonario
+
+tabella : auto usate
+
 - id | INDEX |  INT OR BIGINT
 - marchio | INDEX | VARCAHR(50)
 - modello | INDEX | VARCHAR(50)
